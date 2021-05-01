@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>frame305.jpg</filename>
+	<path>/home/wafiq/train_mode/images/train/frame305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wafiq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>458</ymin>
+			<xmax>1274</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>
